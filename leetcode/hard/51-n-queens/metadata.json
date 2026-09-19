@@ -1,0 +1,19 @@
+{
+  "title": "N-Queens",
+  "titleSlug": "n-queens",
+  "frontendQuestionId": "51",
+  "leetcodeUrl": "https://leetcode.com/problems/n-queens/",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Backtracking",
+    "Algorithm X"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2128699812",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-09-19T06:30:36.817Z",
+  "backfilledAt": "2026-09-19T06:30:36.817Z"
+}
