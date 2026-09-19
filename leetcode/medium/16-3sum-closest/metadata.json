@@ -1,0 +1,19 @@
+{
+  "title": "3Sum Closest",
+  "titleSlug": "3sum-closest",
+  "frontendQuestionId": "16",
+  "leetcodeUrl": "https://leetcode.com/problems/3sum-closest/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Sorting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1975465798",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-09-19T06:29:44.160Z",
+  "backfilledAt": "2026-09-19T06:29:44.160Z"
+}
