@@ -1,0 +1,18 @@
+{
+  "title": "Find the Highest Altitude",
+  "titleSlug": "find-the-highest-altitude",
+  "frontendQuestionId": "1833",
+  "leetcodeUrl": "https://leetcode.com/problems/find-the-highest-altitude/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Prefix Sum"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2026734671",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-09-19T06:39:00.547Z",
+  "backfilledAt": "2026-09-19T06:39:00.547Z"
+}
