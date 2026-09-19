@@ -1,0 +1,19 @@
+{
+  "title": "Count Dominant Nodes in a Binary Tree",
+  "titleSlug": "count-dominant-nodes-in-a-binary-tree",
+  "frontendQuestionId": "4358",
+  "leetcodeUrl": "https://leetcode.com/problems/count-dominant-nodes-in-a-binary-tree/",
+  "difficulty": "Medium",
+  "topics": [
+    "Tree",
+    "Depth-First Search",
+    "Binary Tree"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2100875913",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-09-19T06:41:34.702Z",
+  "backfilledAt": "2026-09-19T06:41:34.702Z"
+}
