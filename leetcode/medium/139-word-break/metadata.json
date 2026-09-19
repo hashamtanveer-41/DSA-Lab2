@@ -1,0 +1,23 @@
+{
+  "title": "Word Break",
+  "titleSlug": "word-break",
+  "frontendQuestionId": "139",
+  "leetcodeUrl": "https://leetcode.com/problems/word-break/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Dynamic Programming",
+    "Trie",
+    "Memoization",
+    "Brute-Force Search"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2124063051",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-09-19T06:32:37.388Z",
+  "backfilledAt": "2026-09-19T06:32:37.388Z"
+}
