@@ -1,0 +1,20 @@
+{
+  "title": "Search a 2D Matrix II",
+  "titleSlug": "search-a-2d-matrix-ii",
+  "frontendQuestionId": "240",
+  "leetcodeUrl": "https://leetcode.com/problems/search-a-2d-matrix-ii/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Binary Search",
+    "Divide and Conquer",
+    "Matrix"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2046234775",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-09-19T06:34:18.304Z",
+  "backfilledAt": "2026-09-19T06:34:18.304Z"
+}
