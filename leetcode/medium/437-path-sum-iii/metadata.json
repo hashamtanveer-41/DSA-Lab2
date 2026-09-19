@@ -1,0 +1,19 @@
+{
+  "title": "Path Sum III",
+  "titleSlug": "path-sum-iii",
+  "frontendQuestionId": "437",
+  "leetcodeUrl": "https://leetcode.com/problems/path-sum-iii/",
+  "difficulty": "Medium",
+  "topics": [
+    "Tree",
+    "Depth-First Search",
+    "Binary Tree"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2115548405",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-09-19T06:35:29.962Z",
+  "backfilledAt": "2026-09-19T06:35:29.962Z"
+}
