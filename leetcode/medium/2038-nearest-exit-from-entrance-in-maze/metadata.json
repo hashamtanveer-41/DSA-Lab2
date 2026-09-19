@@ -1,0 +1,19 @@
+{
+  "title": "Nearest Exit from Entrance in Maze",
+  "titleSlug": "nearest-exit-from-entrance-in-maze",
+  "frontendQuestionId": "2038",
+  "leetcodeUrl": "https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Breadth-First Search",
+    "Matrix"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2116674853",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-09-19T06:39:15.146Z",
+  "backfilledAt": "2026-09-19T06:39:15.146Z"
+}
