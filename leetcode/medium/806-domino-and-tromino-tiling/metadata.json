@@ -1,0 +1,17 @@
+{
+  "title": "Domino and Tromino Tiling",
+  "titleSlug": "domino-and-tromino-tiling",
+  "frontendQuestionId": "806",
+  "leetcodeUrl": "https://leetcode.com/problems/domino-and-tromino-tiling/",
+  "difficulty": "Medium",
+  "topics": [
+    "Dynamic Programming"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2118885494",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-09-19T06:37:07.850Z",
+  "backfilledAt": "2026-09-19T06:37:07.850Z"
+}
