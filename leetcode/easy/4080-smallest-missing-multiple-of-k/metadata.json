@@ -1,0 +1,18 @@
+{
+  "title": "Smallest Missing Multiple of K",
+  "titleSlug": "smallest-missing-multiple-of-k",
+  "frontendQuestionId": "4080",
+  "leetcodeUrl": "https://leetcode.com/problems/smallest-missing-multiple-of-k/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2120206835",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-09-19T06:40:33.054Z",
+  "backfilledAt": "2026-09-19T06:40:33.054Z"
+}
