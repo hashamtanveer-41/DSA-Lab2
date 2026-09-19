@@ -1,0 +1,19 @@
+{
+  "title": "Check Completeness of a Binary Tree",
+  "titleSlug": "check-completeness-of-a-binary-tree",
+  "frontendQuestionId": "998",
+  "leetcodeUrl": "https://leetcode.com/problems/check-completeness-of-a-binary-tree/",
+  "difficulty": "Medium",
+  "topics": [
+    "Tree",
+    "Breadth-First Search",
+    "Binary Tree"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2078855917",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-09-19T06:37:42.120Z",
+  "backfilledAt": "2026-09-19T06:37:42.120Z"
+}
