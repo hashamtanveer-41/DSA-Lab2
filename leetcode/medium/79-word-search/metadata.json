@@ -1,0 +1,21 @@
+{
+  "title": "Word Search",
+  "titleSlug": "word-search",
+  "frontendQuestionId": "79",
+  "leetcodeUrl": "https://leetcode.com/problems/word-search/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "String",
+    "Backtracking",
+    "Depth-First Search",
+    "Matrix"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2122347398",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-09-19T06:31:18.166Z",
+  "backfilledAt": "2026-09-19T06:31:18.166Z"
+}
